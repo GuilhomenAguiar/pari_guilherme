@@ -1,0 +1,1 @@
+this tst has the purpose to test github and the push command
